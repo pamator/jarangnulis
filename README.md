@@ -1,2 +1,2 @@
 # jarangnulis
-proyek bukan proyek
+proyek main-main 
